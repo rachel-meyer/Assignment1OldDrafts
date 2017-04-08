@@ -1,0 +1,32 @@
+cy117	Bobby Yang	32	TAS	Cycling	0	
+sp112	Sarah Mayes	21	SA	Running	0	
+su125	Rita Pesina	25	WA	Super Athlete	0	
+sp115	Emily Port	26	VIC	Running	0	
+sw102	Catherine O'Malley	23	NT	Swimming	0	
+sw107	John Bowman	30	NSW	Swimming	0	
+sw100	Michael Freeman	25	VIC	Swimming	0	
+sw104	Patrick Sullivan	25	NSW	Swimming	0	
+cy116	Melanie Pinder	27	QLD	Cycling	0	
+cy118	Brendan Johns	30	ACT	Cycling	0	
+su126	Charlie Mahan	28	SA	Super Athlete	0	
+su128	Derek Nickson	22	QLD	Super Athlete	0	
+sp114	Graham Hill	23	NSW	Running	0	
+su127	Candice Wheeler	26	VIC	Super Athlete	0	
+su130	Joseph Castro	22	NT	Super Athlete	0	
+cy119	Edward Holmes	29	WA	Cycling	0	
+sp110	Timothy Corgan	18	QLD	Running	0	
+sw106	Lee Brown	26	TAS	Swimming	0	
+sp109	Marian Lake	22	VIC	Running	0	
+su131	Daniel Williams	23	TAS	Super Athlete	0	
+sw105	Mandy Smith	19	WA	Swimming	0	
+sp113	Raymond Fram	24	NT	Running	0	
+su124	Robert Thomas	24	ACT	Super Athlete	0	
+cy120	Lesley Min	19	VIC	Cycling	0	
+cy122	Fran vanKampen	27	QLD	Cycling	0	
+su129	Deborah Trinh	21	NSW	Super Athlete	0	
+cy123	Karen Forbes	20	NT	Cycling	0	
+sw103	George Olander	23	ACT	Swimming	0	
+sp111	Rebecca McLaughlin	20	WA	Running	0	
+cy121	Jack Temple	21	WA	Cycling	0	
+sw101	Annie Duff	22	NSW	Swimming	0	
+sp108	Nathan White	26	SA	Running	0	
